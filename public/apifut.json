@@ -1,0 +1,185 @@
+{
+    "times": [
+      {
+        "nome": "Atlético Mineiro",
+        "sigla": "CAM",
+        "estado": "Minas Gerais",
+        "pontos": 84,
+        "mascote": "Galo",
+        "escudo": "https://example.com/escudos/cam.png",
+        "imagem_mascote": "https://s2-ge.glbimg.com/eiUulwtZs_P49kUVFq55hhpgvGY=/0x0:3828x2552/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/p/j/GQiTXeTICazGS1iLju4w/51613046456-3e10900b13-o.jpg"
+      },
+      {
+        "nome": "Flamengo",
+        "sigla": "FLA",
+        "estado": "Rio de Janeiro",
+        "pontos": 71,
+        "mascote": "Urubu",
+        "escudo": "https://example.com/escudos/fla.png",
+        "imagem_mascote": "https://nossofla.com.br/wp-content/uploads/2024/02/18747580-rio-brasil-21-de-janeiro-de-2022-jogador-mascote-na-partida-entre-flamengo-x-nova-iguacu-pela-03-rodada-do-campeonato-carioca-no-estadio-do-maracana-gratis-foto.jpg"
+      },
+      {
+        "nome": "Palmeiras",
+        "sigla": "PAL",
+        "estado": "São Paulo",
+        "pontos": 66,
+        "mascote": "Periquito",
+        "escudo": "https://example.com/escudos/pal.png",
+        "imagem_mascote": "https://s2-ge.glbimg.com/CUWfWhi_982NpJ-pBkuR_nf4lHY=/0x0:2000x1264/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2015/03/07/palmeiras_bragantino-rib-7.jpg"
+      },
+      {
+        "nome": "Fortaleza",
+        "sigla": "FOR",
+        "estado": "Ceará",
+        "pontos": 58,
+        "mascote": "Leão",
+        "escudo": "https://example.com/escudos/for.png",
+        "imagem_mascote": "https://esportenewsmundo.com.br/wp-content/uploads/2020/10/Jubamascotefec.jpg"
+      },
+      {
+        "nome": "Corinthians",
+        "sigla": "COR",
+        "estado": "São Paulo",
+        "pontos": 57,
+        "mascote": "Mosqueteiro",
+        "escudo": "https://example.com/escudos/cor.png",
+        "imagem_mascote": "https://lncimg.lance.com.br/uploads/2023/10/mosqueteiro_do_corinthians_antes_da_partida_a.jpg"
+      },
+      {
+        "nome": "Red Bull Bragantino",
+        "sigla": "RBB",
+        "estado": "São Paulo",
+        "pontos": 56,
+        "mascote": "Toro Loko",
+        "escudo": "https://example.com/escudos/rbb.png",
+        "imagem_mascote": "https://s2.glbimg.com/PQCM5hEwQXpjtJF9reVMPhXys6Q=/620x430/e.glbimg.com/og/ed/f/original/2019/03/26/54432559_2338601496158356_2720617681844699136_n.jpg"
+      },
+      {
+        "nome": "Fluminense",
+        "sigla": "FLU",
+        "estado": "Rio de Janeiro",
+        "pontos": 54,
+        "mascote": "Guerreiro",
+        "escudo": "https://example.com/escudos/flu.png",
+        "imagem_mascote": "https://lncimg.lance.com.br/cdn-cgi/image/width=850,height=530,quality=75,format=webp/uploads/2023/09/uploads_1508431762862-37677858176_c564f53d4b_k_Easy-Resize.com_.jpg"
+      },
+      {
+        "nome": "América Mineiro",
+        "sigla": "AMG",
+        "estado": "Minas Gerais",
+        "pontos": 53,
+        "mascote": "Coelho",
+        "escudo": "https://example.com/escudos/amg.png",
+        "imagem_mascote": "https://esportenewsmundo.com.br/wp-content/uploads/2021/04/AMERICA_X_CRUZEIRO_17022019-64-scaled.jpg"
+      },
+      {
+        "nome": "Atlético Goianiense",
+        "sigla": "ACG",
+        "estado": "Goiás",
+        "pontos": 53,
+        "mascote": "Dragão",
+        "escudo": "https://example.com/escudos/acg.png",
+        "imagem_mascote": "https://pbs.twimg.com/media/GLIVualXAAAd0q5.jpg:large"
+      },
+      {
+        "nome": "Santos",
+        "sigla": "SAN",
+        "estado": "São Paulo",
+        "pontos": 50,
+        "mascote": "Baleia",
+        "escudo": "https://example.com/escudos/san.png",
+        "imagem_mascote": "https://lncimg.lance.com.br/uploads/2023/10/santos3-aspect-ratio-512-320.jpg"
+      },
+      {
+        "nome": "Ceará",
+        "sigla": "CEA",
+        "estado": "Ceará",
+        "pontos": 50,
+        "mascote": "Vovô",
+        "escudo": "https://example.com/escudos/cea.png",
+        "imagem_mascote": "https://midia.cearasc.com/media//img/mascote_2023.jpeg"
+      },
+      {
+        "nome": "Internacional",
+        "sigla": "INT",
+        "estado": "Rio Grande do Sul",
+        "pontos": 48,
+        "mascote": "Saci",
+        "escudo": "https://example.com/escudos/int.png",
+        "imagem_mascote": "https://static.ndmais.com.br/2024/02/saci-do-inter-1-800x533.png"
+      },
+      {
+        "nome": "São Paulo",
+        "sigla": "SAO",
+        "estado": "São Paulo",
+        "pontos": 48,
+        "mascote": "Soberano",
+        "escudo": "https://example.com/escudos/sao.png",
+        "imagem_mascote": "https://s2-ge.glbimg.com/VoeB0Q1BdO-td1RTwMfFsfjm7vs=/0x0:1167x760/984x0/smart/filters:strip_icc()/s.glbimg.com/es/ge/f/original/2018/06/14/sp.jpg"
+      },
+      {
+        "nome": "Athletico Paranaense",
+        "sigla": "CAP",
+        "estado": "Paraná",
+        "pontos": 47,
+        "mascote": "Furacão",
+        "escudo": "https://example.com/escudos/cap.png",
+        "imagem_mascote": "https://media.gazetadopovo.com.br/2016/01/c4ba149440f9046a6ae8a64f96e3e6d9-gpLarge.jpg"
+      },
+      {
+        "nome": "Cuiabá",
+        "sigla": "CUI",
+        "estado": "Mato Grosso",
+        "pontos": 47,
+        "mascote": "Dourado",
+        "escudo": "https://example.com/escudos/cui.png",
+        "imagem_mascote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYPnMGXJC6THaOrROyCa08kN7yHHYR6msMrzHJh-89sRiRsY5O6-TRbCV6nt6wHSRpJY&usqp=CAU"
+      },
+      {
+        "nome": "Juventude",
+        "sigla": "JUV",
+        "estado": "Rio Grande do Sul",
+        "pontos": 46,
+        "mascote": "Papada",
+        "escudo": "https://example.com/escudos/juv.png",
+        "imagem_mascote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugk6qLvZEzotMjxW_l7pqlPEtmAJtQTQxnGtLO1Lgi22EIvOHtRPIMpB_OPBzMGxBDAA&usqp=CAU"
+      },
+      {
+        "nome": "Grêmio",
+        "sigla": "GRE",
+        "estado": "Rio Grande do Sul",
+        "pontos": 43,
+        "mascote": "Mosqueteiro",
+        "escudo": "https://example.com/escudos/gre.png",
+        "imagem_mascote": "https://pbs.twimg.com/media/EY8hf08XkAARoR8.png"
+      },
+      {
+        "nome": "Bahia",
+        "sigla": "BAH",
+        "estado": "Bahia",
+        "pontos": 43,
+        "mascote": "Super-Homem",
+        "escudo": "https://example.com/escudos/bah.png",
+        "imagem_mascote": "https://www.esporteclubebahia.com.br/wp-content/uploads/2014/09/mascote.jpg"
+      },
+      {
+        "nome": "Sport",
+        "sigla": "SPO",
+        "estado": "Pernambuco",
+        "pontos": 38,
+        "mascote": "Leão",
+        "escudo": "https://example.com/escudos/spo.png",
+        "imagem_mascote": "https://portaldostimes.com.br/wp-content/uploads/2023/07/mascote_do_sport_vira_meme_foto_instagram-21885540.jpg"
+      },
+      {
+        "nome": "Chapecoense",
+        "sigla": "CHA",
+        "estado": "Santa Catarina",
+        "pontos": 15,
+        "mascote": "Índio",
+        "escudo": "https://example.com/escudos/cha.png",
+        "imagem_mascote": "https://polidorojunior.com.br/wp-content/gallery/avai-0x2-coritiba-6set2015/Chapeco-4.jpg"
+      }
+    ]
+  }
+  

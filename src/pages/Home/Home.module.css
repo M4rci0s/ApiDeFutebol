@@ -1,0 +1,24 @@
+/* css da page Home */
+.home {
+    width: 100%;
+    min-height: 90vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.home img {
+    height: 500px;
+}
+
+.home p {
+    font-size: 3rem;
+    /* 48px */
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.home span {
+    color: var(--red);
+}
